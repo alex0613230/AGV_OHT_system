@@ -14,13 +14,13 @@
 <div align=center><img src ="https://github.com/alex0613230/AGV_OHT_system/blob/main/pic/OHT.png"/></div>
 <br>
 
-# 主控設備雛型圖
+# 主控設備雛型
 <div align=center><img src ="https://github.com/alex0613230/AGV_OHT_system/blob/main/pic/master_pic.png"/></div>
 
-# AGV 設備雛型圖
+# AGV 設備雛型
 <div align=center><img src ="https://github.com/alex0613230/AGV_OHT_system/blob/main/pic/AGV_pic.png"/></div>
 
-# OHT 設備雛型圖
+# OHT 設備雛型
 <div align=center><img src ="https://github.com/alex0613230/AGV_OHT_system/blob/main/pic/OHT_pic.png"/></div>
 
 # 作業環境
